@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/gravitycareerinstitute/static/css/main.aad8587d.chunk.css",
+    "main.js": "/gravitycareerinstitute/static/js/main.36ce6176.chunk.js",
+    "main.js.map": "/gravitycareerinstitute/static/js/main.36ce6176.chunk.js.map",
+    "runtime-main.js": "/gravitycareerinstitute/static/js/runtime-main.b13d4127.js",
+    "runtime-main.js.map": "/gravitycareerinstitute/static/js/runtime-main.b13d4127.js.map",
+    "static/css/2.3737f49d.chunk.css": "/gravitycareerinstitute/static/css/2.3737f49d.chunk.css",
+    "static/js/2.664b674d.chunk.js": "/gravitycareerinstitute/static/js/2.664b674d.chunk.js",
+    "static/js/2.664b674d.chunk.js.map": "/gravitycareerinstitute/static/js/2.664b674d.chunk.js.map",
+    "index.html": "/gravitycareerinstitute/index.html",
+    "static/css/2.3737f49d.chunk.css.map": "/gravitycareerinstitute/static/css/2.3737f49d.chunk.css.map",
+    "static/css/main.aad8587d.chunk.css.map": "/gravitycareerinstitute/static/css/main.aad8587d.chunk.css.map",
+    "static/js/2.664b674d.chunk.js.LICENSE.txt": "/gravitycareerinstitute/static/js/2.664b674d.chunk.js.LICENSE.txt",
+    "static/media/IIT-JEE.90f3eb19.png": "/gravitycareerinstitute/static/media/IIT-JEE.90f3eb19.png",
+    "static/media/about-us.7cee1185.png": "/gravitycareerinstitute/static/media/about-us.7cee1185.png",
+    "static/media/gravity.4752ba15.png": "/gravitycareerinstitute/static/media/gravity.4752ba15.png",
+    "static/media/hero-img1.12a6ce0c.png": "/gravitycareerinstitute/static/media/hero-img1.12a6ce0c.png",
+    "static/media/kids-learning.fcd258b6.png": "/gravitycareerinstitute/static/media/kids-learning.fcd258b6.png",
+    "static/media/remixicon.css": "/gravitycareerinstitute/static/media/remixicon.f2616f59.ttf",
+    "static/media/seo.b323da63.png": "/gravitycareerinstitute/static/media/seo.b323da63.png",
+    "static/media/slick-theme.css": "/gravitycareerinstitute/static/media/slick.c94f7671.ttf",
+    "static/media/slider1.3483645e.jpg": "/gravitycareerinstitute/static/media/slider1.3483645e.jpg",
+    "static/media/slider3.ba8a4043.jpg": "/gravitycareerinstitute/static/media/slider3.ba8a4043.jpg",
+    "static/media/slider4.50a65146.jpeg": "/gravitycareerinstitute/static/media/slider4.50a65146.jpeg",
+    "static/media/testimonial01.ef527bf3.png": "/gravitycareerinstitute/static/media/testimonial01.ef527bf3.png",
+    "static/media/ui-ux.0366b465.png": "/gravitycareerinstitute/static/media/ui-ux.0366b465.png",
+    "static/media/web-development.91ce5338.png": "/gravitycareerinstitute/static/media/web-development.91ce5338.png",
+    "static/media/why-choose-us.5ec7e3b2.png": "/gravitycareerinstitute/static/media/why-choose-us.5ec7e3b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b13d4127.js",
+    "static/css/2.3737f49d.chunk.css",
+    "static/js/2.664b674d.chunk.js",
+    "static/css/main.aad8587d.chunk.css",
+    "static/js/main.36ce6176.chunk.js"
+  ]
+}
